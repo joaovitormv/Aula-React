@@ -1,5 +1,9 @@
+import * as S from "./styles"
+
 export function Aula(){
     return(
-        <h1>aoba</h1>
+        <>
+        <S.H1>texto grande e azul</S.H1>
+        </>
     )
 }
